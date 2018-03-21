@@ -14,7 +14,7 @@
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
+            {Sub MOdule 03/21/2018
                 components.Dispose();
             }
             base.Dispose(disposing);
@@ -37,7 +37,7 @@
             this.ClientSize = new System.Drawing.Size(284, 262);
             this.Name = "Recruitment";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Sub MOdule 03/21/2018";
             this.Load += new System.EventHandler(this.Recruitment_Load);
             this.ResumeLayout(false);
 
