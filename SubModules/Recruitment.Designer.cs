@@ -14,7 +14,7 @@
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {Sub MOdule 03/21/2018
+            {
                 components.Dispose();
             }
             base.Dispose(disposing);
