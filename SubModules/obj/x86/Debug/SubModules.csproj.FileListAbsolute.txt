@@ -1,0 +1,7 @@
+D:\HRIMS\SubModules\obj\x86\Debug\SubModules.Properties.Resources.resources
+D:\HRIMS\SubModules\obj\x86\Debug\SubModules.Recruitment.resources
+D:\HRIMS\SubModules\obj\x86\Debug\SubModules.csproj.GenerateResource.Cache
+D:\HRIMS\SubModules\bin\Debug\SubModules.exe
+D:\HRIMS\SubModules\bin\Debug\SubModules.pdb
+D:\HRIMS\SubModules\obj\x86\Debug\SubModules.exe
+D:\HRIMS\SubModules\obj\x86\Debug\SubModules.pdb
